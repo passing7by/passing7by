@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 방문자 수 -->
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fpassing7by"/></a>                        
 
 <!-- 내용 -->
 <div align= "center">
