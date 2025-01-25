@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passing7by&show_icons=true&theme=radical)
 
 <!-- 내가 사용한 언어 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passing7by&layout=compact)
