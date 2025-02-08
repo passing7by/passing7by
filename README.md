@@ -51,13 +51,3 @@ Here are some ideas to get you started:
          <a href=mailto:jinam0717@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:jinam0717@gmail.com"> </a>
           </div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=passing7by&bg_color=60,b3e5ff,8ea0ec&title_color=ffffff&text_color=ffffff"/>
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passing7by&layout=compact&bg_color=60,b3e5ff,8ea0ec&title_color=ffffff&text_color=ffffff"
-           />
-    </div>
-
-<!-- 백준 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinam0717)](https://solved.ac/jinam0717/)
