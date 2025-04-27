@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>  
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passing7by&layout=compact&theme=algolia)
 
 <!-- GitHub Stats Card -->
 [![passing7by's GitHub stats](https://github-readme-stats.vercel.app/api?username=passing7by&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
