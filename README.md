@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinam0717)](https://solved.ac/jinam0717)
 
 <!-- gitanimals -->
-<a href="https://github.com/passing7by/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/passing7by" width="500"/>
 </a>
 </div>
