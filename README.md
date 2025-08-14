@@ -13,15 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 방문자 수 -->
-<!-- hits 사이트 안 열림 -->
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fpassing7by"/></a> -->
-
 <!-- 내용 -->
 <div align= "center">
 <!-- 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b4f4f9,100:8fbaff&height=240&text=Jinam%20Kim%20🚀&animation=blink&fontColor=ffffff&fontSize=70" />
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"></div> 
 
 <!-- SKILLS -->
@@ -52,17 +47,21 @@ Here are some ideas to get you started:
 <!-- CONTACT -->
 <div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
-  <br> 
-    <a href=https://velog.io/@passing7by/posts>
+  <br>
+    <a href=https://velog.io/@passing7by/posts style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@passing7by/posts">
     </a>
-    <a href=mailto:jinam0717@gmail.com>
+    &nbsp;
+    <a href=mailto:jinam0717@gmail.com style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:jinam0717@gmail.com">
     </a>
 </div>
 
 <!-- STATS -->
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎮 Stats</h2>
+
+<!-- 방문자 수 -->
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fpassing7by?color=green&label=hits&size=small" alt="hits" /></a>
 
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passing7by&layout=compact&theme=dracula)
