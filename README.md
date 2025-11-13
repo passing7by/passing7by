@@ -51,7 +51,6 @@ Here are some ideas to get you started:
     <a href=https://velog.io/@passing7by/posts style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@passing7by/posts">
     </a>
-    &nbsp;
     <a href=mailto:jinam0717@gmail.com style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:jinam0717@gmail.com">
     </a>
